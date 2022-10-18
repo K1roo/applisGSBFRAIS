@@ -17,5 +17,13 @@
          <input type="reset" value="Annuler" name="annuler"> 
       </p>
 </form>
+<body>
 
+<video autoplay muted loop id="myVideo">
+  <source src="https://media.giphy.com/media/zDVmCcMd9YD8xnf3Zf/giphy.mp4" type="video/mp4">
+
+</video>
 </div>
+
+
+
