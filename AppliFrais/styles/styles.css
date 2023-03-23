@@ -1,6 +1,6 @@
 /* Styles des divisions principales de la page */
 body{
-  background-color: #5d12d6;
+  background-color: #706b78;
 	background-repeat: repeat-x;
   margin:0% 0%;
   padding : 0.6em;
@@ -8,7 +8,7 @@ body{
   font-size:0.8em;
 }
 #page {
-  background-color:rgb(105, 21, 21);
+  background-color:rgb(72,198,236);
   width : 65%;
   margin : auto ;
   border : 0.2em solid black;
